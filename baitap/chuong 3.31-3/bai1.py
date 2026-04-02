@@ -6,3 +6,5 @@ for i in range(1, n):
     ket_qua.append(f"{2*i} = 2*{i}")
 
 print(", ".join(ket_qua))
+
+print('tesst chinh suong')
