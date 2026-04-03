@@ -1,0 +1,6 @@
+ten:Cong
+tuoi:21
+email:dcong@gmail.com
+skype:congdark
+dia_chi:sonla
+noi_lam_viec:hanoi
